@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HW App</string>
+    <string name="title_activity_math_questions">MathQuestionsActivity</string>
+    <string name="title_activity_english_questions">EnglishQuestionsActivity</string>
+    <string name="title_activity_computer_questions">ComputerQuestionsActivity</string>
+    <string name="title_activity_other_questions">OtherQuestionsActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="math_questions">Math Questions</string>
+    <string name="english_questions">English Questions</string>
+    <string name="computer_questions">Computer Questions</string>
+    <string name="other_questions">Other Questions</string>
+    <string name="enter_your_answer_here">Enter your answer here</string>
+    <string name="submit">Submit</string>
+    <string name="next_question">Next question</string>
+    <string name="Enter_your_answer_here">Enter Your answer here</string>
+    <string name="submitT">Submit</string>
+    <string name="next_questionN">Next question</string>
+    <string name="enter_your_answer_hereE">Enter your answer here</string>
+    <string name="SUBMIT">Submit</string>
+    <string name="next_questionNN">Next question</string>
+    <string name="enter_your_answer_hereD">Enter your answer here</string>
+    <string name="submitS">Submit</string>
+    <string name="next_questionS">Next question</string>
+</resources>

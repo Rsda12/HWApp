@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="math_button" type="id" />
+    <item name="computer_button" type="id" />
+    <item name="other_button" type="id" />
+    <item name="english_button" type="id" />
+    <item name="next_button" type="id" />
+    <item name="submit_button" type="id" />
+    <item name="answer_edit_text" type="id" />
+    <item name="question_text_view" type="id" />
+    <item name="math_questions_button" type="id" />
+    <item name="english_questions_button" type="id" />
+    <item name="computer_questions_button" type="id" />
+    <item name="other_questions_button" type="id" />
+</resources>

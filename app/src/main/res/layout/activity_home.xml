@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/math_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="#FFFF00"
+        android:text="@string/math_questions"
+        android:textColor="#5C6BC0" />
+
+    <Button
+        android:id="@+id/english_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/english_questions"
+        android:textColor="#FFFFFF"
+        android:background="#0000FF"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/computer_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="#00FF00"
+        android:text="@string/computer_questions"
+        android:textColor="#616161"
+        tools:ignore="TextSizeCheck" />
+
+    <Button
+        android:id="@+id/other_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="#FF0000"
+        android:text="@string/other_questions"
+        android:textColor="#000000" />
+
+</LinearLayout>
